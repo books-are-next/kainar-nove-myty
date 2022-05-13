@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="2f01296d-0e7b-4f64-bff3-f69f741796cd"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Nové mýty</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Stříhali dohola malého chlapečka</text>
+      </navLabel>
+      <content src="Text/nove_myty_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Výrobce drátěných vložek</text>
+      </navLabel>
+      <content src="Text/nove_myty_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Vlna 900 (Brněnský goniometr)</text>
+      </navLabel>
+      <content src="Text/nove_myty_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Dopis o stávce</text>
+      </navLabel>
+      <content src="Text/nove_myty_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Vlak s vězni</text>
+      </navLabel>
+      <content src="Text/nove_myty_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Konec cesty</text>
+      </navLabel>
+      <content src="Text/nove_myty_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Nénie</text>
+      </navLabel>
+      <content src="Text/nove_myty_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Vycpávač</text>
+      </navLabel>
+      <content src="Text/nove_myty_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Lhůta</text>
+      </navLabel>
+      <content src="Text/nove_myty_013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>La belle dame sans merci</text>
+      </navLabel>
+      <content src="Text/nove_myty_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Hudba</text>
+      </navLabel>
+      <content src="Text/nove_myty_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Po vojně</text>
+      </navLabel>
+      <content src="Text/nove_myty_016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Mí známí</text>
+      </navLabel>
+      <content src="Text/nove_myty_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Slovenské lesy hluboké</text>
+      </navLabel>
+      <content src="Text/nove_myty_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Operace</text>
+      </navLabel>
+      <content src="Text/nove_myty_019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Eskadra Straky</text>
+      </navLabel>
+      <content src="Text/nove_myty_020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Dívky</text>
+      </navLabel>
+      <content src="Text/nove_myty_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Odjezd</text>
+      </navLabel>
+      <content src="Text/nove_myty_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Čtyři roztomilí katané</text>
+      </navLabel>
+      <content src="Text/nove_myty_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Kuna</text>
+      </navLabel>
+      <content src="Text/nove_myty_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Kdo je dlouhá léta nemocen</text>
+      </navLabel>
+      <content src="Text/nove_myty_025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Vozidlo</text>
+      </navLabel>
+      <content src="Text/nove_myty_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Mladému střelci</text>
+      </navLabel>
+      <content src="Text/nove_myty_027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Hubenost</text>
+      </navLabel>
+      <content src="Text/nove_myty_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Slovenská noční cesta</text>
+      </navLabel>
+      <content src="Text/nove_myty_029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Bubínek</text>
+      </navLabel>
+      <content src="Text/nove_myty_030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Dívka která léčí květiny</text>
+      </navLabel>
+      <content src="Text/nove_myty_031.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

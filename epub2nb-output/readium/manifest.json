@@ -1,0 +1,284 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Nové mýty",
+    "identifier": "2f01296d-0e7b-4f64-bff3-f69f741796cd",
+    "author": "Josef Kainar",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2019-07-15T00:00:00.000Z",
+    "published": "2019-07-15T00:00:00.000Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/nove_myty_032.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Stříhali dohola malého chlapečka",
+      "href": "OEBPS/Text/nove_myty_005.html"
+    },
+    {
+      "title": "Výrobce drátěných vložek",
+      "href": "OEBPS/Text/nove_myty_006.html"
+    },
+    {
+      "title": "Vlna 900 (Brněnský goniometr)",
+      "href": "OEBPS/Text/nove_myty_007.html"
+    },
+    {
+      "title": "Dopis o stávce",
+      "href": "OEBPS/Text/nove_myty_008.html"
+    },
+    {
+      "title": "Vlak s vězni",
+      "href": "OEBPS/Text/nove_myty_009.html"
+    },
+    {
+      "title": "Konec cesty",
+      "href": "OEBPS/Text/nove_myty_010.html"
+    },
+    {
+      "title": "Nénie",
+      "href": "OEBPS/Text/nove_myty_011.html"
+    },
+    {
+      "title": "Vycpávač",
+      "href": "OEBPS/Text/nove_myty_012.html"
+    },
+    {
+      "title": "Lhůta",
+      "href": "OEBPS/Text/nove_myty_013.html"
+    },
+    {
+      "title": "La belle dame sans merci",
+      "href": "OEBPS/Text/nove_myty_014.html"
+    },
+    {
+      "title": "Hudba",
+      "href": "OEBPS/Text/nove_myty_015.html"
+    },
+    {
+      "title": "Po vojně",
+      "href": "OEBPS/Text/nove_myty_016.html"
+    },
+    {
+      "title": "Mí známí",
+      "href": "OEBPS/Text/nove_myty_017.html"
+    },
+    {
+      "title": "Slovenské lesy hluboké",
+      "href": "OEBPS/Text/nove_myty_018.html"
+    },
+    {
+      "title": "Operace",
+      "href": "OEBPS/Text/nove_myty_019.html"
+    },
+    {
+      "title": "Eskadra Straky",
+      "href": "OEBPS/Text/nove_myty_020.html"
+    },
+    {
+      "title": "Dívky",
+      "href": "OEBPS/Text/nove_myty_021.html"
+    },
+    {
+      "title": "Odjezd",
+      "href": "OEBPS/Text/nove_myty_022.html"
+    },
+    {
+      "title": "Čtyři roztomilí katané",
+      "href": "OEBPS/Text/nove_myty_023.html"
+    },
+    {
+      "title": "Kuna",
+      "href": "OEBPS/Text/nove_myty_024.html"
+    },
+    {
+      "title": "Kdo je dlouhá léta nemocen",
+      "href": "OEBPS/Text/nove_myty_025.html"
+    },
+    {
+      "title": "Vozidlo",
+      "href": "OEBPS/Text/nove_myty_026.html"
+    },
+    {
+      "title": "Mladému střelci",
+      "href": "OEBPS/Text/nove_myty_027.html"
+    },
+    {
+      "title": "Hubenost",
+      "href": "OEBPS/Text/nove_myty_028.html"
+    },
+    {
+      "title": "Slovenská noční cesta",
+      "href": "OEBPS/Text/nove_myty_029.html"
+    },
+    {
+      "title": "Bubínek",
+      "href": "OEBPS/Text/nove_myty_030.html"
+    },
+    {
+      "title": "Dívka která léčí květiny",
+      "href": "OEBPS/Text/nove_myty_031.html"
+    }
+  ]
+}
