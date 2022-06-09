@@ -143,7 +143,7 @@ A obul se a našel při tom všem
 Na pijáku dívčí profil s číslem místo obočí  
 Na hudební estrádě se jistě něco stalo
 
-Hudba začala hráti tak nepředvídaně  
+Hudba začala hráti _tak_ nepředvídaně  
 Že zlaté hlavy císařů se otočily  
 Na svých talířových podstavcích
 

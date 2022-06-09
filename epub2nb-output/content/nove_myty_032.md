@@ -2,8 +2,8 @@
 contentType: prose
 ---
 
-Josef Kainar  
-Nové mýty
+**Josef Kainar  
+Nové mýty**
 
 Edice Čeští básníci 20. století
 
