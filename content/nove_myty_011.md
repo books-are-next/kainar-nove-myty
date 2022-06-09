@@ -37,14 +37,14 @@ Ach vsákla v zemi
 Slzami svých drahých  
 Dalo by se napsat
 
-Je-li Pane třeba této trýzně  
-Lučiště tvé a kopí
+_Je-li Pane třeba této trýzně  
+Lučiště tvé a kopí_
 
 Popravdě řečeno  
 Měl byste zajít si k zubnímu lékaři
 
-Je-li Pane třeba této trýzně  
-Lučiště tvé a kopí
+_Je-li Pane třeba této trýzně  
+Lučiště tvé a kopí_
 
 Až si budete vyplachovat ústa kysličníkem  
 Miládka měla někdy divné chutě
@@ -77,5 +77,5 @@ Zvažte se v některé lékárně
 v níž o vás nevědí  
 Co vás to
 
-Je-li Pane třeba této trýzně  
-Lučiště Tvé a kopí
+_Je-li Pane třeba této trýzně  
+Lučiště Tvé a kopí_

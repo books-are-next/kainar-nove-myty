@@ -4,73 +4,73 @@ contentType: prose
 
 ## Dívky
 
-Žena:
+**Žena**:
 
 Krásné krásnější a nejkrásnější  
 Dívky konve dívky píšťalky  
 A dívky držadla
 
-Muž:
+**Muž**:
 
 Ale za každou z nich je nutno vyvětrat pokoj  
 Jenom když se pohybují hoří na nich vůně
 
-Žena:
+**Žena**:
 
 Jako na alkoholu z broskví anebo ze švestek
 
-Muž:
+**Muž**:
 
 Ale když se přestanou  
 Přesýpat v bocích
 
-Žena:
+**Žena**:
 
 Proto ony chodí
 
-Muž:
+**Muž**:
 
 Svlékat se
 
-Žena:
+**Žena**:
 
 Protože jsou krásné krásnější a nejkrásnější
 
-Muž:
+**Muž**:
 
 Opírati se
 
-Žena:
+**Žena**:
 
 Je to drahý klavír Copak si o mně vy myslíte
 
-Muž:
+**Muž**:
 
 Pít
 
-Žena:
+**Žena**:
 
 V každé mé číši je perla na dně pane
 
-Muž:
+**Muž**:
 
 A zejména když se přestanou docela hýbat protože umřely  
 Je nutno vyvětrat pokoj  
 Bylo tu něco tak cizího
 
-Žena:
+**Žena**:
 
 Krabice od modistek  
 Chodí po světě jako andělští mládenci  
 Pruhovaní růžově a modře
 
-Muž:
+**Muž**:
 
 Ó nezapomenutelné chvíle  
 Potítka nezapomenutelná  
 Takže
 
-Žena:
+**Žena**:
 
 Nechtějte po mně nic  
 Trpím
@@ -79,29 +79,29 @@ Narodila jsem se v cizině
 V krajinách smaragdově zelené trávy  
 Udělám vám to Opravdu
 
-Muž:
+**Muž**:
 
 Pravdivé jenom ve dnech kdy krvácejí  
 Jsou naštěstí lidmi jednou za čas
 
-Žena:
+**Žena**:
 
 Krásné krásnější a nejkrásnější
 
-Muž:
+**Muž**:
 
 Zbudou po nich černé vypínače  
 Propálené dírky ve svátečních ubrusech  
 Jako oči bez vůle
 
-Žena:
+**Žena**:
 
 Jako oči které nepamatují
 
-Muž:
+**Muž**:
 
 A chtějí všechno a každého
 
-Žena:
+**Žena**:
 
 A nechtějí nic a nikoho
