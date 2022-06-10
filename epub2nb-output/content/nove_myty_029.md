@@ -1,8 +1,9 @@
 ---
+title: Slovenská noční cesta
 contentType: prose
 ---
 
-## Slovenská noční cesta
+<section>
 
 Paznehty šly do živého  
 Bláta cesty
@@ -34,3 +35,5 @@ Se svým vlastním skvrnitým a velkým snem
 
 A dodnes je mi toho líto  
 A velmi se za sebe stydím
+
+</section>

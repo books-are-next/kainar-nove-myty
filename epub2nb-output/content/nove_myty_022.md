@@ -1,8 +1,9 @@
 ---
+title: Odjezd
 contentType: prose
 ---
 
-## Odjezd
+<section>
 
 Nejsem šťasten Nejsem zoufalý  
 Bylo to jiné než lze předvídat  
@@ -28,3 +29,5 @@ Jak je to dávno už!
 Dávno jak bahno dna  
 Co od té doby pak  
 Ach Je jen náhoda
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Po vojně
 contentType: prose
 ---
 
-## Po vojně
+<section>
 
 Těch armád které táhly po kraji  
 už pamatujem několik  
@@ -34,3 +35,5 @@ v zahrádkách při silnicích
 a na náměstích  
 budou první abecedou  
 které budu učit své syny
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Mladému střelci
 contentType: prose
 ---
 
-## Mladému střelci
+<section>
 
 Nízko miř  
 A dýchej zlehka  
@@ -89,3 +90,5 @@ Prosté jako dech —
 Miř  
 Nízko  
 Bratře
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Dopis o stávce
 contentType: prose
 ---
 
-## Dopis o stávce
+<section>
 
 Za dopravní stávky v tomto městě  
 Na zádech mrtvého autobusu  
@@ -76,3 +77,5 @@ Z blatníku na blatník hrají se karty
 Na zádech mrtvého autobusu na mé ulici  
 Sedí tlustý muž  
 A hraje na frkačku nosu božího
+
+</section>

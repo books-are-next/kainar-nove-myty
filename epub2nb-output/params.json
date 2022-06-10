@@ -8,22 +8,22 @@
       "modified": "2019-07-15T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\ne.booknadpis.*\nheading.id.2\nmlpuroven1cast\nmlpuroven2kapitola",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
       "subtitle": "",
-      "h2": "MLP.uroven3.nadpis\nMLP.UROVEN3.NADPIS.DRAMA",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
       "h4": "MLP.uroven5.nadpis",
       "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": ".+12.0\n.+12.12\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
-      "brAfter": ".+0.12\n.+12.12\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "em": ".*kurziva.*\n.*-I-.*\n.*--I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
-      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
@@ -423,163 +423,163 @@
         "xhtml": "nove_myty_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Stříhali dohola malého chlapečka",
         "subtitleSuggest": "",
         "filename": "nove_myty_005.md",
         "xhtml": "nove_myty_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Výrobce drátěných vložek",
         "subtitleSuggest": "",
         "filename": "nove_myty_006.md",
         "xhtml": "nove_myty_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vlna 900 (Brněnský goniometr)",
         "subtitleSuggest": "",
         "filename": "nove_myty_007.md",
         "xhtml": "nove_myty_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dopis o stávce",
         "subtitleSuggest": "",
         "filename": "nove_myty_008.md",
         "xhtml": "nove_myty_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vlak s vězni",
         "subtitleSuggest": "",
         "filename": "nove_myty_009.md",
         "xhtml": "nove_myty_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Konec cesty",
         "subtitleSuggest": "",
         "filename": "nove_myty_010.md",
         "xhtml": "nove_myty_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nénie",
         "subtitleSuggest": "",
         "filename": "nove_myty_011.md",
         "xhtml": "nove_myty_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vycpávač",
         "subtitleSuggest": "",
         "filename": "nove_myty_012.md",
         "xhtml": "nove_myty_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Lhůta",
         "subtitleSuggest": "",
         "filename": "nove_myty_013.md",
         "xhtml": "nove_myty_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "La belle dame sans merci",
         "subtitleSuggest": "",
         "filename": "nove_myty_014.md",
         "xhtml": "nove_myty_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hudba",
         "subtitleSuggest": "",
         "filename": "nove_myty_015.md",
         "xhtml": "nove_myty_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Po vojně",
         "subtitleSuggest": "",
         "filename": "nove_myty_016.md",
         "xhtml": "nove_myty_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Mí známí",
         "subtitleSuggest": "",
         "filename": "nove_myty_017.md",
         "xhtml": "nove_myty_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Slovenské lesy hluboké",
         "subtitleSuggest": "",
         "filename": "nove_myty_018.md",
         "xhtml": "nove_myty_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Operace",
         "subtitleSuggest": "",
         "filename": "nove_myty_019.md",
         "xhtml": "nove_myty_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Eskadra Straky",
         "subtitleSuggest": "",
         "filename": "nove_myty_020.md",
         "xhtml": "nove_myty_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dívky",
         "subtitleSuggest": "",
         "filename": "nove_myty_021.md",
         "xhtml": "nove_myty_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Odjezd",
         "subtitleSuggest": "",
         "filename": "nove_myty_022.md",
         "xhtml": "nove_myty_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čtyři roztomilí katané",
         "subtitleSuggest": "",
         "filename": "nove_myty_023.md",
         "xhtml": "nove_myty_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kuna",
         "subtitleSuggest": "",
         "filename": "nove_myty_024.md",
         "xhtml": "nove_myty_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kdo je dlouhá léta nemocen",
         "subtitleSuggest": "",
         "filename": "nove_myty_025.md",
         "xhtml": "nove_myty_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vozidlo",
         "subtitleSuggest": "",
         "filename": "nove_myty_026.md",
         "xhtml": "nove_myty_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Mladému střelci",
         "subtitleSuggest": "",
         "filename": "nove_myty_027.md",
         "xhtml": "nove_myty_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hubenost",
         "subtitleSuggest": "",
         "filename": "nove_myty_028.md",
         "xhtml": "nove_myty_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Slovenská noční cesta",
         "subtitleSuggest": "",
         "filename": "nove_myty_029.md",
         "xhtml": "nove_myty_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bubínek",
         "subtitleSuggest": "",
         "filename": "nove_myty_030.md",
         "xhtml": "nove_myty_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dívka která léčí květiny",
         "subtitleSuggest": "",
         "filename": "nove_myty_031.md",
         "xhtml": "nove_myty_031.html"
@@ -659,6 +659,6 @@
       "user": "books-are-next",
       "repo": "kainar-nove-myty"
     },
-    "generatedAt": 1654779627982
+    "generatedAt": 1654882779512
   }
 }

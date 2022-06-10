@@ -1,8 +1,9 @@
 ---
+title: Dívky
 contentType: prose
 ---
 
-## Dívky
+<section>
 
 **Žena**:
 
@@ -105,3 +106,5 @@ A chtějí všechno a každého
 **Žena**:
 
 A nechtějí nic a nikoho
+
+</section>

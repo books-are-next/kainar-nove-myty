@@ -1,8 +1,9 @@
 ---
+title: Nénie
 contentType: prose
 ---
 
-## Nénie
+<section>
 
 Až opláčete příteli svou něžnou Miládku  
 Až zas poprvé ztratíte vědomí
@@ -79,3 +80,5 @@ Co vás to
 
 _Je-li Pane třeba této trýzně  
 Lučiště Tvé a kopí_
+
+</section>

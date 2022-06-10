@@ -1,8 +1,9 @@
 ---
+title: Vlna 900 (Brněnský goniometr)
 contentType: prose
 ---
 
-## Vlna 900 (Brněnský goniometr)
+<section>
 
 Vzduch plný teček čárek  
 A co ty o tom víš  
@@ -26,3 +27,5 @@ Kvokají-li Stoupej Uhni se
 
 Možná že z té výše bude vidět  
 Sovětské hranice
+
+</section>

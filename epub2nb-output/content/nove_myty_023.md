@@ -1,8 +1,9 @@
 ---
+title: Čtyři roztomilí katané
 contentType: prose
 ---
 
-## Čtyři roztomilí katané
+<section>
 
 Mám známé čtyři katany.
 
@@ -132,3 +133,5 @@ Dodnes ji cítím v každé kosti.
 A dodnes cítím chladný ovan,  
 jímž jsem jak plakát odchlipován  
 po krásném nočním koncertu.
+
+</section>

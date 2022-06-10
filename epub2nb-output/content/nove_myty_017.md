@@ -1,8 +1,9 @@
 ---
+title: Mí známí
 contentType: prose
 ---
 
-## Mí známí
+<section>
 
 Mí známí jemně znetvoření  
 Mne chodí občas navštěvovat
@@ -74,3 +75,5 @@ Veliký slimák v jejich ústech
 Je hlídá Zevnitř přisátý
 
 Já jsem jenž za ně naříká si
+
+</section>

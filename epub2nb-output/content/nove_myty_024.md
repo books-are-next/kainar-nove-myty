@@ -1,8 +1,9 @@
 ---
+title: Kuna
 contentType: prose
 ---
 
-## Kuna
+<section>
 
 Na kunu železa
 
@@ -31,3 +32,5 @@ Měsíc už z mraků vyhřezá
 A břidlicová střecha bílá
 
 Se náhle čtverci prokreslila
+
+</section>

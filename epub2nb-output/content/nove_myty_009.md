@@ -1,8 +1,9 @@
 ---
+title: Vlak s vězni
 contentType: prose
 ---
 
-## Vlak s vězni
+<section>
 
 Stojí to za prvním skladištěm  
 Běžte se tam na To podívat  
@@ -86,3 +87,5 @@ A zas Co vy tam
 Zato my  
 Po nás jdou ruské  
 Kanóny
+
+</section>

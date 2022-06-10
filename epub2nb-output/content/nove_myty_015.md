@@ -1,8 +1,9 @@
 ---
+title: Hudba
 contentType: prose
 ---
 
-## Hudba
+<section>
 
 Odcizuje se nám  
 Kup mu ty housle a smyčec  
@@ -29,3 +30,5 @@ Jen jako praskot
 Svých vlastních  
 Ucpaných  
 Lebek
+
+</section>

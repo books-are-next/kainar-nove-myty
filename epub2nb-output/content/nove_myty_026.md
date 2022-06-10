@@ -1,8 +1,9 @@
 ---
+title: Vozidlo
 contentType: prose
 ---
 
-## Vozidlo
+<section>
 
 Vozíček s mrzáčkem strkají dopředu  
 Jeník je chlouba rodiny  
@@ -31,3 +32,5 @@ A usmívá se na ni
 
 Jak často jezdí za námi  
 Něco neslyšného
+
+</section>
