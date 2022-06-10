@@ -1,8 +1,9 @@
 ---
+title: Stříhali dohola malého chlapečka
 contentType: prose
 ---
 
-## Stříhali dohola malého chlapečka
+<section>
 
 Stříhali dohola malého chlapečka  
 Kadeře padaly k zemi a zmíraly  
@@ -44,3 +45,5 @@ Dívat se na sebe Nesmět se pohnouti
 Nesmět se pohnouti na židli z železa
 
 Už mu to začlo
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Kdo je dlouhá léta nemocen
 contentType: prose
 ---
 
-## Kdo je dlouhá léta nemocen
+<section>
 
 Kdo je dlouhá léta nemocen  
 Přestane nakonec myslet na svou nemoc
@@ -123,3 +124,5 @@ A oni podivně mlčí a uvědomují si
 
 Že vlastně tu praskají parkety  
 A už ho nikdy víc nepozvou
+
+</section>

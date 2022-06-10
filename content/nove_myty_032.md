@@ -1,6 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
+
+<section>
 
 **Josef Kainar  
 Nové mýty**
@@ -24,3 +27,5 @@ ISBN 978-80-274-0004-1 (epub)
 ISBN 978-80-274-0005-8 (pdf)
 
 ISBN 978-80-274-0006-5 (prc)
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Bubínek
 contentType: prose
 ---
 
-## Bubínek
+<section>
 
 Je něco horšího než jenom únava  
 Jde transport mužů po cestě  
@@ -31,3 +32,5 @@ Přestát Trestat
 Přestát Trestat  
 Trestat Brzy  
 Trestat Trestat
+
+</section>

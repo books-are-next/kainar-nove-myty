@@ -1,8 +1,9 @@
 ---
+title: Slovenské lesy hluboké
 contentType: prose
 ---
 
-## Slovenské lesy hluboké
+<section>
 
 Slovenské lesy hluboké  
 Nenávist hlubší je  
@@ -54,3 +55,5 @@ Plamenů benzínu
 
 Utěšovali své bojující řkouce:  
 Nezhynu!
+
+</section>

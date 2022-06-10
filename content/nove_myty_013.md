@@ -1,8 +1,9 @@
 ---
+title: Lhůta
 contentType: prose
 ---
 
-## Lhůta
+<section>
 
 Jakási lhůta je tu  
 Bratře  
@@ -31,3 +32,5 @@ Jak zlaté vši
 
 Jakási lhůta je tu  
 Bratře
+
+</section>

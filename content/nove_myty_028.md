@@ -1,8 +1,9 @@
 ---
+title: Hubenost
 contentType: prose
 ---
 
-## Hubenost
+<section>
 
 Kterak jste zhubla  
 Propadáte se jaksi do sebe  
@@ -37,3 +38,5 @@ Je opravdu hubená — Má láska
 A její srdce dalo by se vyjmouti
 
 Kávovou lžičkou
+
+</section>

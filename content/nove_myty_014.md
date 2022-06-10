@@ -1,8 +1,9 @@
 ---
+title: La belle dame sans merci
 contentType: prose
 ---
 
-## La belle dame sans merci
+<section>
 
 Co vstal — a břicho ještě spalo —  
 Cítil že pokoj už začíná odplouvat
@@ -253,3 +254,5 @@ Pluje tlupa dravců svářících se o každé sousto
 
 Takto zní báseň neštěstí  
 Báseň La belle dame sans merci
+
+</section>

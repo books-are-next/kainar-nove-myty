@@ -1,8 +1,9 @@
 ---
+title: Konec cesty
 contentType: prose
 ---
 
-## Konec cesty
+<section>
 
 Vezmi mne s sebou Dolů Někam  
 Nemohu Slyšíš? S tebou Čekám  
@@ -24,3 +25,5 @@ Přikryj mne Dveře Pláč a klíč
 Jediná dlažba Po ní šels ty  
 A už jen ty  
 A konec cesty
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Eskadra Straky
 contentType: prose
 ---
 
-## Eskadra Straky
+<section>
 
 Eskadra nazvaná Straky nalétává  
 Na všechno co se třpytí dole ve tmě
@@ -54,3 +55,5 @@ Klovej klovej
 Same Cornegie  
 Do těchto falešných šperků  
 Nočního Německa
+
+</section>

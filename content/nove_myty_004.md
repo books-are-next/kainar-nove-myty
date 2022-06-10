@@ -1,6 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
+
+<section>
 
 Znění tohoto textu vychází z díla [Příběhy, osudy a mýty](https://search.mlp.cz/cz/titul/pribehy-osudy-a-myty/13673/) tak, jak bylo vydáno nakladatelstvím Československý spisovatel v Praze v roce 1987. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -23,3 +26,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 Verze 1.0 z 15. 7. 2019.
 
 ![](../Images/image002.png)
+
+</section>
