@@ -40,7 +40,7 @@ A myslím že smysl té příhody
 Byla ta příhoda sama
 
 A lampa Altová lampa dodala usmívavě  
-                     Zapomněla jste mne ovšem zhasnout
+             Zapomněla jste mne ovšem zhasnout
 
 Leč jinak opravdu smysl té příhody  
 Byla ta příhoda sama
@@ -106,7 +106,7 @@ Vejdou k němu jak dvě přítelkyně
 Hnědé rozptýlené světlo s horečkou
 
 Horečka vypravuje  
-                     Za jedné z dálných cest námořních
+             Za jedné z dálných cest námořních
 
 A lampa Altová lampa dodává usmívavě
 

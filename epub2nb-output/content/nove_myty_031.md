@@ -101,13 +101,13 @@ Dívka která léčí květiny
 Je krásná Více Je umělá  
 Odporné gesto s jakým se zavrtává  
 Do hnědých vlasů!  
-                     Je slyšet luskání!
+             Je slyšet luskání!
 
 Vší všeho krásna podobného krásnu  
 Suchý zvuk hadích břich moci podobné moci  
 A všechno v ní Kolem ní Před ní a za ní  
 Je duté!  
-                     Luskání!
+             Luskání!
 
 Zašly světadíly  
 Nebylo jich škoda  

@@ -7,17 +7,17 @@ contentType: prose
 
 Za dopravní stávky v tomto městě  
 Na zádech mrtvého autobusu  
-                     Sedí tlustý muž  
+             Sedí tlustý muž  
 A hraje na frkačku nosu božího  
 Šoféři si připravují neurčité pokrmy  
 Na troše dešťové vody  
 Jsou to mí staří kamarádi z mokré  
-                     A vědí stehno o té  
-                     A znají chlupy o té  
-                     A tehda na tunelu  
-                     Číča  
-                     Mrskala se  
-                     Co
+             A vědí stehno o té  
+             A znají chlupy o té  
+                    A tehda na tunelu  
+             Číča  
+             Mrskala se  
+             Co
 
 Ale dnes  
 Ale dnes v tomto pitomém světě  
@@ -34,7 +34,7 @@ A žádná kosmetika
 Podpaždí nejde dnes na odbyt  
 Pohlavní nemoci zhášejí podkožní světla  
 To jsou ty drahé fráze  
-                     A na jeho tváři byl odlesk utrpení  
+             A na jeho tváři byl odlesk utrpení  
 Jenomže dyš mu to  
 Na černých liliích něco je  
 Pročpak bychom si to neřekli
@@ -42,10 +42,10 @@ Pročpak bychom si to neřekli
 Písmena poskakují po domech a nač  
 Písmena skáčou na střechy a nač  
 Písmena lidové jídelny  
-                     Kde obědvávám  
-                     Polívku s nudlema  
-                     Za cellového koncertu  
-                     Tlampač mi jej nalívá do talířku  
+             Kde obědvávám  
+             Polívku s nudlema  
+             Za cellového koncertu  
+             Tlampač mi jej nalívá do talířku  
 Píšu ti Stávka proměnila město  
 V lom plný zkamenělin  
 Vozy trilobiti Vozy velké vši  

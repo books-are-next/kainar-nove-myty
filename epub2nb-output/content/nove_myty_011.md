@@ -64,7 +64,7 @@ Až se rozhněváte náhle na píseň
 Která vás orazítkovala
 
 V jatečním obvodu města  
-                     Byl jste jediný milenec  
+             Byl jste jediný milenec  
 V jatečním obvodu města
 
 Byl jste též ohněm v tmách  

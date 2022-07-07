@@ -20,8 +20,8 @@ A stroj se rozeřval
 Jako by se otevřela ve vzduchu  
 Na okamžik brána pekel
 
-                     Obličej Samuela Cornegieho  
-                     Leteckého poručíka na třetím nočním letu  
+             Obličej Samuela Cornegieho  
+             Leteckého poručíka na třetím nočním letu  
 Promění se v rozvodnou desku se dvěma rychloměry očí
 
 S nosem který ukazuje  
