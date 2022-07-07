@@ -46,10 +46,10 @@ Zpíval že je doma
 Pozdravte mi mé rodiče  
 Tam za nadjezdem  
 Rožák číslo dvacet  
-                     A copak vy tu  
-                     Ale my  
-                     Po nás jdou ruské  
-                     Kanóny
+             A copak vy tu  
+             Ale my  
+             Po nás jdou ruské  
+             Kanóny
 
 On jediný byl při sobě a zpíval
 

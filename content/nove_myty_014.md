@@ -71,11 +71,11 @@ Nebo jim předčítá ze staré knížky žalmů
 O pádu Jeruzaléma  
 A oni vrhnou jako by se obraceli k Hospodinu  
 A potom obráceni vnitřnostmi nahoru  
-                     (Ledviny jako hodinky  
-                     Plíce kožešinka  
-                     Střeva kapsy  
-                     Ó pomalu pracující kapsy  
-                     Srdce jako kterýkoliv předmět potřeby)
+             (Ledviny jako hodinky  
+             Plíce kožešinka  
+             Střeva kapsy  
+               Ó pomalu pracující kapsy  
+             Srdce jako kterýkoliv předmět potřeby)
 
 Třeba by mohli —  
 Jednou —
@@ -116,14 +116,14 @@ V jejich něze drzé
 Nemusit močit jemnou trubičkou  
 A jísti pinzetami  
 Potrhané organismy ze stád Démonů —  
-                      (Někdy se však za opilství zdá mi  
-                     Že Koriolán kouše do živého  
-                     Až dojí celý skotu kus  
-                     Mrtvatý panáček si bude pěkně z něho  
-                     Odsouzený k vytlačení  
-                     K vytažení jemnou nití  
-                     Ze vznícených kravských střev  
-                     Pod kyvem věčnostných ohonů)  
+             (Někdy se však za opilství zdá mi  
+             Že Koriolán kouše do živého  
+             Až dojí celý skotu kus  
+             Mrtvatý panáček si bude pěkně z něho  
+             Odsouzený k vytlačení  
+             K vytažení jemnou nití  
+             Ze vznícených kravských střev  
+             Pod kyvem věčnostných ohonů)  
 Nemuset být fluidem telegramů  
 Marie umírá Tatínek v lázni skáče  
 Nemuset umývati uslintanou tlamu  
@@ -131,7 +131,7 @@ Psíka který
 Kdyby byl jen trochu třikrát větší  
 Hrál už by si jenom  
 S míčem z lidských křečí  
-                     Nemusit otročit  
+             Nemusit otročit  
 A nebýt ohrožen  
 Pro podezřelé maso žen  
 Nebylo by ani  
@@ -234,11 +234,11 @@ Na lodi parku s několika domy
 Žiji s La belle dame sans merci  
 Má lůžko s mušelínovými závěsy  
 Na lodi parku s několika domy  
-                     To všechno se vám zdá a vše se jednou zlomí  
-                     Pro krásu plavby o ní plačte si  
-                     Jsem jen La belle dame sans merci  
-                     To všechno se vám zdá a vše se jednou zlomí  
-                     Vědomí ničeho lepší než bezvědomí —  
+             To všechno se vám zdá a vše se jednou zlomí  
+             Pro krásu plavby o ní plačte si  
+             Jsem jen La belle dame sans merci  
+              To všechno se vám zdá a vše se jednou zlomí  
+             Vědomí ničeho lepší než bezvědomí —  
 Nemá přátel Několik milenců  
 Několik prstů do krku  
 Na přídi (což je vysoká nejpustší samota)

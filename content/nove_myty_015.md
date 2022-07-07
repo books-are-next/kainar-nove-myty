@@ -7,14 +7,14 @@ contentType: prose
 
 Odcizuje se nám  
 Kup mu ty housle a smyčec  
-                     Jenomže on už se narodil  
+             Jenomže on už se narodil  
 S ušima plnýma růžového vosku
 
 A jak se vyvíjejí všechny druhy  
 Aby líp čelily osudům horku a hlubinám  
 Počínajíc Odysseem  
 Rodíme se se svým voskem v uších  
-                     A Sirény lahodných ostrovů Nicoty  
+             A Sirény lahodných ostrovů Nicoty  
 Pějí marně Když je míjíme
 
 Kup mu ty housle a smyčec
