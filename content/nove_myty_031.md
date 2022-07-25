@@ -1,6 +1,6 @@
 ---
 title: Dívka která léčí květiny
-contentType: prose
+contentType: poetry
 ---
 
 <section>

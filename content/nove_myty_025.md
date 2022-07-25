@@ -1,6 +1,6 @@
 ---
 title: Kdo je dlouhá léta nemocen
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Konec cesty
-contentType: prose
+contentType: poetry
 ---
 
 <section>

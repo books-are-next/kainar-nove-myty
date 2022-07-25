@@ -1,6 +1,6 @@
 ---
 title: Hubenost
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Slovenské lesy hluboké
-contentType: prose
+contentType: poetry
 ---
 
 <section>

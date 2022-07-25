@@ -1,6 +1,6 @@
 ---
 title: Vlak s vězni
-contentType: prose
+contentType: poetry
 ---
 
 <section>

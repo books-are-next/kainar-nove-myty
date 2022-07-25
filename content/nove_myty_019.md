@@ -1,6 +1,6 @@
 ---
 title: Operace
-contentType: prose
+contentType: poetry
 ---
 
 <section>

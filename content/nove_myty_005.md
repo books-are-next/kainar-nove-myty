@@ -1,6 +1,6 @@
 ---
 title: Stříhali dohola malého chlapečka
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Vycpávač
-contentType: prose
+contentType: poetry
 ---
 
 <section>

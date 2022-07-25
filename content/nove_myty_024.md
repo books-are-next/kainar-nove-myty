@@ -1,6 +1,6 @@
 ---
 title: Kuna
-contentType: prose
+contentType: poetry
 ---
 
 <section>

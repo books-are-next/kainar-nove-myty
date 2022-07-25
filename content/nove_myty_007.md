@@ -1,6 +1,6 @@
 ---
 title: Vlna 900 (Brněnský goniometr)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
