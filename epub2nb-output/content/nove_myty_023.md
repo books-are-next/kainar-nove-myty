@@ -1,6 +1,6 @@
 ---
 title: Čtyři roztomilí katané
-contentType: prose
+contentType: poetry
 ---
 
 <section>

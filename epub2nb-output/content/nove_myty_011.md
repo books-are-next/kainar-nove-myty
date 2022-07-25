@@ -1,6 +1,6 @@
 ---
 title: Nénie
-contentType: prose
+contentType: poetry
 ---
 
 <section>

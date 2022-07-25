@@ -1,6 +1,6 @@
 ---
 title: Hudba
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Vozidlo
-contentType: prose
+contentType: poetry
 ---
 
 <section>

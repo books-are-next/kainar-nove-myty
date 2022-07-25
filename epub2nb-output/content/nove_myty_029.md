@@ -1,6 +1,6 @@
 ---
 title: Slovenská noční cesta
-contentType: prose
+contentType: poetry
 ---
 
 <section>

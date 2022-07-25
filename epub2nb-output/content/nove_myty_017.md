@@ -1,6 +1,6 @@
 ---
 title: Mí známí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

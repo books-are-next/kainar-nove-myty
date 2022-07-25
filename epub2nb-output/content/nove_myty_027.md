@@ -1,6 +1,6 @@
 ---
 title: Mladému střelci
-contentType: prose
+contentType: poetry
 ---
 
 <section>

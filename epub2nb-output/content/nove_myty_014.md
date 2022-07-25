@@ -1,6 +1,6 @@
 ---
 title: La belle dame sans merci
-contentType: prose
+contentType: poetry
 ---
 
 <section>

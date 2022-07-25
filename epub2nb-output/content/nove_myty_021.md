@@ -1,6 +1,6 @@
 ---
 title: Dívky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

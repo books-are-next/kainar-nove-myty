@@ -1,0 +1,634 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Nové mýty",
+  "author": "Josef Kainar",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kainar-nove-myty-c63a6ff",
+  "revision": "c63a6ff",
+  "readingOrder": [
+    "promo.html",
+    "nove_myty_005.html",
+    "nove_myty_006.html",
+    "nove_myty_007.html",
+    "nove_myty_008.html",
+    "nove_myty_009.html",
+    "nove_myty_010.html",
+    "nove_myty_011.html",
+    "nove_myty_012.html",
+    "nove_myty_013.html",
+    "nove_myty_014.html",
+    "nove_myty_015.html",
+    "nove_myty_016.html",
+    "nove_myty_017.html",
+    "nove_myty_018.html",
+    "nove_myty_019.html",
+    "nove_myty_020.html",
+    "nove_myty_021.html",
+    "nove_myty_022.html",
+    "nove_myty_023.html",
+    "nove_myty_024.html",
+    "nove_myty_025.html",
+    "nove_myty_026.html",
+    "nove_myty_027.html",
+    "nove_myty_028.html",
+    "nove_myty_029.html",
+    "nove_myty_030.html",
+    "nove_myty_031.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jul 25 2022 11:29:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658748591011
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "nove_myty_005.html",
+      "toc": []
+    },
+    {
+      "title": "Stříhali dohola malého chlapečka",
+      "file": "nove_myty_005.html",
+      "words": 194,
+      "chars": 1061,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "nove_myty_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stříhali dohola malého chlapečka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výrobce drátěných vložek",
+      "file": "nove_myty_006.html",
+      "words": 134,
+      "chars": 703,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 2,
+      "prev": "nove_myty_005.html",
+      "next": "nove_myty_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výrobce drátěných vložek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlna 900 (Brněnský goniometr)",
+      "file": "nove_myty_007.html",
+      "words": 70,
+      "chars": 373,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 3,
+      "prev": "nove_myty_006.html",
+      "next": "nove_myty_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlna 900 (Brněnský goniometr)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dopis o stávce",
+      "file": "nove_myty_008.html",
+      "words": 293,
+      "chars": 1586,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 4,
+      "prev": "nove_myty_007.html",
+      "next": "nove_myty_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dopis o stávce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlak s vězni",
+      "file": "nove_myty_009.html",
+      "words": 271,
+      "chars": 1340,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 5,
+      "prev": "nove_myty_008.html",
+      "next": "nove_myty_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlak s vězni",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Konec cesty",
+      "file": "nove_myty_010.html",
+      "words": 97,
+      "chars": 431,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 6,
+      "prev": "nove_myty_009.html",
+      "next": "nove_myty_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Konec cesty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nénie",
+      "file": "nove_myty_011.html",
+      "words": 283,
+      "chars": 1499,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 7,
+      "prev": "nove_myty_010.html",
+      "next": "nove_myty_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nénie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vycpávač",
+      "file": "nove_myty_012.html",
+      "words": 153,
+      "chars": 853,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 8,
+      "prev": "nove_myty_011.html",
+      "next": "nove_myty_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vycpávač",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lhůta",
+      "file": "nove_myty_013.html",
+      "words": 80,
+      "chars": 420,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 9,
+      "prev": "nove_myty_012.html",
+      "next": "nove_myty_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lhůta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "La belle dame sans merci",
+      "file": "nove_myty_014.html",
+      "words": 1030,
+      "chars": 5679,
+      "ideas": 219,
+      "role": "chapter",
+      "order": 10,
+      "prev": "nove_myty_013.html",
+      "next": "nove_myty_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "La belle dame sans merci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hudba",
+      "file": "nove_myty_015.html",
+      "words": 89,
+      "chars": 489,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 11,
+      "prev": "nove_myty_014.html",
+      "next": "nove_myty_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hudba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Po vojně",
+      "file": "nove_myty_016.html",
+      "words": 125,
+      "chars": 636,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 12,
+      "prev": "nove_myty_015.html",
+      "next": "nove_myty_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Po vojně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mí známí",
+      "file": "nove_myty_017.html",
+      "words": 282,
+      "chars": 1412,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 13,
+      "prev": "nove_myty_016.html",
+      "next": "nove_myty_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mí známí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slovenské lesy hluboké",
+      "file": "nove_myty_018.html",
+      "words": 160,
+      "chars": 850,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 14,
+      "prev": "nove_myty_017.html",
+      "next": "nove_myty_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slovenské lesy hluboké",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Operace",
+      "file": "nove_myty_019.html",
+      "words": 96,
+      "chars": 509,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 15,
+      "prev": "nove_myty_018.html",
+      "next": "nove_myty_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Operace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Eskadra Straky",
+      "file": "nove_myty_020.html",
+      "words": 169,
+      "chars": 1005,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 16,
+      "prev": "nove_myty_019.html",
+      "next": "nove_myty_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Eskadra Straky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dívky",
+      "file": "nove_myty_021.html",
+      "words": 198,
+      "chars": 1096,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 17,
+      "prev": "nove_myty_020.html",
+      "next": "nove_myty_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dívky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odjezd",
+      "file": "nove_myty_022.html",
+      "words": 111,
+      "chars": 588,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 18,
+      "prev": "nove_myty_021.html",
+      "next": "nove_myty_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odjezd",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čtyři roztomilí katané",
+      "file": "nove_myty_023.html",
+      "words": 549,
+      "chars": 3005,
+      "ideas": 119,
+      "role": "chapter",
+      "order": 19,
+      "prev": "nove_myty_022.html",
+      "next": "nove_myty_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtyři roztomilí katané",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kuna",
+      "file": "nove_myty_024.html",
+      "words": 85,
+      "chars": 468,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 20,
+      "prev": "nove_myty_023.html",
+      "next": "nove_myty_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kuna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo je dlouhá léta nemocen",
+      "file": "nove_myty_025.html",
+      "words": 472,
+      "chars": 2574,
+      "ideas": 92,
+      "role": "chapter",
+      "order": 21,
+      "prev": "nove_myty_024.html",
+      "next": "nove_myty_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo je dlouhá léta nemocen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vozidlo",
+      "file": "nove_myty_026.html",
+      "words": 108,
+      "chars": 541,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 22,
+      "prev": "nove_myty_025.html",
+      "next": "nove_myty_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vozidlo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mladému střelci",
+      "file": "nove_myty_027.html",
+      "words": 266,
+      "chars": 1319,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 23,
+      "prev": "nove_myty_026.html",
+      "next": "nove_myty_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mladému střelci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hubenost",
+      "file": "nove_myty_028.html",
+      "words": 137,
+      "chars": 744,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 24,
+      "prev": "nove_myty_027.html",
+      "next": "nove_myty_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hubenost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slovenská noční cesta",
+      "file": "nove_myty_029.html",
+      "words": 93,
+      "chars": 479,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 25,
+      "prev": "nove_myty_028.html",
+      "next": "nove_myty_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slovenská noční cesta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bubínek",
+      "file": "nove_myty_030.html",
+      "words": 94,
+      "chars": 502,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 26,
+      "prev": "nove_myty_029.html",
+      "next": "nove_myty_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bubínek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dívka která léčí květiny",
+      "file": "nove_myty_031.html",
+      "words": 506,
+      "chars": 2816,
+      "ideas": 106,
+      "role": "chapter",
+      "order": 27,
+      "prev": "nove_myty_030.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dívka která léčí květiny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 137,
+      "chars": 893,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "nove_myty_031.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 6288,
+      "chars": 33901,
+      "ideas": 1401
+    },
+    "chapters": {
+      "words": 6145,
+      "chars": 32978,
+      "ideas": 1382
+    }
+  }
+}

@@ -1,6 +1,6 @@
 ---
 title: Po vojně
-contentType: prose
+contentType: poetry
 ---
 
 <section>

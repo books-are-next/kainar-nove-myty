@@ -1,6 +1,6 @@
 ---
 title: Dopis o stávce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

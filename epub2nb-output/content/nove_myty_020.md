@@ -1,6 +1,6 @@
 ---
 title: Eskadra Straky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

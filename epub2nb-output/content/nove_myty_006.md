@@ -1,6 +1,6 @@
 ---
 title: Výrobce drátěných vložek
-contentType: prose
+contentType: poetry
 ---
 
 <section>

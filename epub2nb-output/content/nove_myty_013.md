@@ -1,6 +1,6 @@
 ---
 title: Lhůta
-contentType: prose
+contentType: poetry
 ---
 
 <section>

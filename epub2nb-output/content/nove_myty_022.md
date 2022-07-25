@@ -1,6 +1,6 @@
 ---
 title: Odjezd
-contentType: prose
+contentType: poetry
 ---
 
 <section>

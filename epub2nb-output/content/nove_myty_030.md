@@ -1,6 +1,6 @@
 ---
 title: Bubínek
-contentType: prose
+contentType: poetry
 ---
 
 <section>
