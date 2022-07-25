@@ -1,1 +1,729 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Nové mýty",
+      "identifier": "2f01296d-0e7b-4f64-bff3-f69f741796cd",
+      "author": "Josef Kainar",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-07-15T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "Poezie"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*\nmlpverse \nmlpversedrama \nmlpverseodsazene \nmlpverseodsazenekurziva ",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\nmlpverseodsazenekurziva ",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "nove_myty_001.md",
+            "xhtml": "nove_myty_001.html",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "nove_myty_002.md",
+            "xhtml": "nove_myty_002.html",
+            "id": 1,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "nove_myty_003.md",
+            "xhtml": "nove_myty_003.html",
+            "id": 2,
+            "role": "about",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "nove_myty_004.md",
+            "xhtml": "nove_myty_004.html",
+            "id": 3,
+            "role": "about",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "nove_myty_005.md",
+            "xhtml": "nove_myty_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Stříhali dohola malého chlapečka"
+          },
+          {
+            "filename": "nove_myty_006.md",
+            "xhtml": "nove_myty_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Výrobce drátěných vložek"
+          },
+          {
+            "filename": "nove_myty_007.md",
+            "xhtml": "nove_myty_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vlna 900 (Brněnský goniometr)"
+          },
+          {
+            "filename": "nove_myty_008.md",
+            "xhtml": "nove_myty_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dopis o stávce"
+          },
+          {
+            "filename": "nove_myty_009.md",
+            "xhtml": "nove_myty_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vlak s vězni"
+          },
+          {
+            "filename": "nove_myty_010.md",
+            "xhtml": "nove_myty_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Konec cesty"
+          },
+          {
+            "filename": "nove_myty_011.md",
+            "xhtml": "nove_myty_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nénie"
+          },
+          {
+            "filename": "nove_myty_012.md",
+            "xhtml": "nove_myty_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vycpávač"
+          },
+          {
+            "filename": "nove_myty_013.md",
+            "xhtml": "nove_myty_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lhůta"
+          },
+          {
+            "filename": "nove_myty_014.md",
+            "xhtml": "nove_myty_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "La belle dame sans merci"
+          },
+          {
+            "filename": "nove_myty_015.md",
+            "xhtml": "nove_myty_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Hudba"
+          },
+          {
+            "filename": "nove_myty_016.md",
+            "xhtml": "nove_myty_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Po vojně"
+          },
+          {
+            "filename": "nove_myty_017.md",
+            "xhtml": "nove_myty_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Mí známí"
+          },
+          {
+            "filename": "nove_myty_018.md",
+            "xhtml": "nove_myty_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Slovenské lesy hluboké"
+          },
+          {
+            "filename": "nove_myty_019.md",
+            "xhtml": "nove_myty_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Operace"
+          },
+          {
+            "filename": "nove_myty_020.md",
+            "xhtml": "nove_myty_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Eskadra Straky"
+          },
+          {
+            "filename": "nove_myty_021.md",
+            "xhtml": "nove_myty_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dívky"
+          },
+          {
+            "filename": "nove_myty_022.md",
+            "xhtml": "nove_myty_022.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Odjezd"
+          },
+          {
+            "filename": "nove_myty_023.md",
+            "xhtml": "nove_myty_023.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Čtyři roztomilí katané"
+          },
+          {
+            "filename": "nove_myty_024.md",
+            "xhtml": "nove_myty_024.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kuna"
+          },
+          {
+            "filename": "nove_myty_025.md",
+            "xhtml": "nove_myty_025.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kdo je dlouhá léta nemocen"
+          },
+          {
+            "filename": "nove_myty_026.md",
+            "xhtml": "nove_myty_026.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vozidlo"
+          },
+          {
+            "filename": "nove_myty_027.md",
+            "xhtml": "nove_myty_027.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Mladému střelci"
+          },
+          {
+            "filename": "nove_myty_028.md",
+            "xhtml": "nove_myty_028.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Hubenost"
+          },
+          {
+            "filename": "nove_myty_029.md",
+            "xhtml": "nove_myty_029.html",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Slovenská noční cesta"
+          },
+          {
+            "filename": "nove_myty_030.md",
+            "xhtml": "nove_myty_030.html",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Bubínek"
+          },
+          {
+            "filename": "nove_myty_031.md",
+            "xhtml": "nove_myty_031.html",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dívka která léčí květiny"
+          },
+          {
+            "filename": "nove_myty_032.md",
+            "xhtml": "nove_myty_032.html",
+            "id": 31,
+            "role": "about",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Nové mýty",
+      "identifier": "2f01296d-0e7b-4f64-bff3-f69f741796cd",
+      "author": "Josef Kainar",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-07-15T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_001.md",
+        "xhtml": "nove_myty_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_002.md",
+        "xhtml": "nove_myty_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_003.md",
+        "xhtml": "nove_myty_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_004.md",
+        "xhtml": "nove_myty_004.html"
+      },
+      {
+        "titleSuggest": "Stříhali dohola malého chlapečka",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_005.md",
+        "xhtml": "nove_myty_005.html"
+      },
+      {
+        "titleSuggest": "Výrobce drátěných vložek",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_006.md",
+        "xhtml": "nove_myty_006.html"
+      },
+      {
+        "titleSuggest": "Vlna 900 (Brněnský goniometr)",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_007.md",
+        "xhtml": "nove_myty_007.html"
+      },
+      {
+        "titleSuggest": "Dopis o stávce",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_008.md",
+        "xhtml": "nove_myty_008.html"
+      },
+      {
+        "titleSuggest": "Vlak s vězni",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_009.md",
+        "xhtml": "nove_myty_009.html"
+      },
+      {
+        "titleSuggest": "Konec cesty",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_010.md",
+        "xhtml": "nove_myty_010.html"
+      },
+      {
+        "titleSuggest": "Nénie",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_011.md",
+        "xhtml": "nove_myty_011.html"
+      },
+      {
+        "titleSuggest": "Vycpávač",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_012.md",
+        "xhtml": "nove_myty_012.html"
+      },
+      {
+        "titleSuggest": "Lhůta",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_013.md",
+        "xhtml": "nove_myty_013.html"
+      },
+      {
+        "titleSuggest": "La belle dame sans merci",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_014.md",
+        "xhtml": "nove_myty_014.html"
+      },
+      {
+        "titleSuggest": "Hudba",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_015.md",
+        "xhtml": "nove_myty_015.html"
+      },
+      {
+        "titleSuggest": "Po vojně",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_016.md",
+        "xhtml": "nove_myty_016.html"
+      },
+      {
+        "titleSuggest": "Mí známí",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_017.md",
+        "xhtml": "nove_myty_017.html"
+      },
+      {
+        "titleSuggest": "Slovenské lesy hluboké",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_018.md",
+        "xhtml": "nove_myty_018.html"
+      },
+      {
+        "titleSuggest": "Operace",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_019.md",
+        "xhtml": "nove_myty_019.html"
+      },
+      {
+        "titleSuggest": "Eskadra Straky",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_020.md",
+        "xhtml": "nove_myty_020.html"
+      },
+      {
+        "titleSuggest": "Dívky",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_021.md",
+        "xhtml": "nove_myty_021.html"
+      },
+      {
+        "titleSuggest": "Odjezd",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_022.md",
+        "xhtml": "nove_myty_022.html"
+      },
+      {
+        "titleSuggest": "Čtyři roztomilí katané",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_023.md",
+        "xhtml": "nove_myty_023.html"
+      },
+      {
+        "titleSuggest": "Kuna",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_024.md",
+        "xhtml": "nove_myty_024.html"
+      },
+      {
+        "titleSuggest": "Kdo je dlouhá léta nemocen",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_025.md",
+        "xhtml": "nove_myty_025.html"
+      },
+      {
+        "titleSuggest": "Vozidlo",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_026.md",
+        "xhtml": "nove_myty_026.html"
+      },
+      {
+        "titleSuggest": "Mladému střelci",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_027.md",
+        "xhtml": "nove_myty_027.html"
+      },
+      {
+        "titleSuggest": "Hubenost",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_028.md",
+        "xhtml": "nove_myty_028.html"
+      },
+      {
+        "titleSuggest": "Slovenská noční cesta",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_029.md",
+        "xhtml": "nove_myty_029.html"
+      },
+      {
+        "titleSuggest": "Bubínek",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_030.md",
+        "xhtml": "nove_myty_030.html"
+      },
+      {
+        "titleSuggest": "Dívka která léčí květiny",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_031.md",
+        "xhtml": "nove_myty_031.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "nove_myty_032.md",
+        "xhtml": "nove_myty_032.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre10",
+      "calibre11",
+      "calibre12",
+      "calibre13",
+      "calibre4",
+      "calibre5",
+      "calibre6",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicenceparagraf",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlpprimarecbezmezery",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven2basne",
+      "mlpverse",
+      "mlpversedrama",
+      "mlpverseodsazene",
+      "mlpverseodsazenekurziva",
+      "mlpznakkurziva11b",
+      "mlpznaktucne11b",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "kainar-nove-myty"
+    },
+    "generatedAt": 1658413390460
+  }
+}
