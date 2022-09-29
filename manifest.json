@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kainar-nove-myty-c63a6ff",
-  "revision": "c63a6ff",
+  "identifier": "kainar-nove-myty-efb61b9",
+  "revision": "efb61b9",
   "readingOrder": [
     "promo.html",
     "nove_myty_005.html",
@@ -42,8 +42,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jul 25 2022 11:29:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658748591011
+    "date": "Thu Sep 29 2022 21:25:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486755816
   },
   "documents": [
     {
