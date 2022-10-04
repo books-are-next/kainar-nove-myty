@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kainar-nove-myty-968c913",
-  "revision": "968c913",
+  "identifier": "kainar-nove-myty-4532338",
+  "revision": "4532338",
   "readingOrder": [
     "promo.html",
     "nove_myty_005.html",
@@ -42,8 +42,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:56:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639787640
+    "date": "Tue Oct 04 2022 16:44:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901840028
   },
   "documents": [
     {
@@ -601,9 +601,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 137,
+      "words": 136,
       "chars": 893,
-      "ideas": 15,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "nove_myty_031.html",
@@ -621,9 +621,9 @@
   ],
   "totals": {
     "all": {
-      "words": 6288,
+      "words": 6287,
       "chars": 33901,
-      "ideas": 1401
+      "ideas": 1400
     },
     "chapters": {
       "words": 6145,
