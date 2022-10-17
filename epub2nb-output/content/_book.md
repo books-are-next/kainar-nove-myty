@@ -13,6 +13,7 @@ meta:
   contentType: poetry
   publisherShort: mkp
   edition: Poezie
+  isbn: 978-80-274-2846-5
 readingOrder:
   - promo.html
   - nove_myty_005.html
